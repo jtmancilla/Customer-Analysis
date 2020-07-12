@@ -5,10 +5,9 @@
 
 The goal of this project is to predict which individuals are most likely to convert into becoming customers for a mail-order sales company in Germany.
 
-There is a blog post for this project hosted in [Medium](). In this blog, we dive into:
+There is a blog post for this project hosted in [Medium](https://medium.com/@jt.mancilla/project-arvato-bertelsmann-customer-analysis-7a0b96d4abbe). In this blog, we dive into:
 
-1. **Customer Segmentation Report** - This analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core
-customer base of the company. 
+1. **Customer Segmentation Report** - This analyzed demographics data for customers of a mail-order sales company in Germany. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. 
 
 2. **Supervised Learning Model** -This used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
@@ -59,7 +58,7 @@ Since the data files are not available publicly, the Jupyter notebook is just fo
 
 
 ## Results <a name="results"></a>
-The detailed analysis of the results can be read in [this Medium post](https://medium.com/@mei.eisenbach/arvato-bertelsmann-customer-analysis-ae1aac59a1ef) or in Arvato Report.pdf.
+The main findings of the code can be found in [this Medium post](https://medium.com/@jt.mancilla/project-arvato-bertelsmann-customer-analysis-7a0b96d4abbe).
 
 
 ## Acknowledgements <a name="acknowledgements"></a>
